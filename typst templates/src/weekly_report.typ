@@ -16,7 +16,7 @@
 
 In this week, I continued to gain hands-on experience in various carpentry tasks. My main focus was on assisting the carpenters at the company with a residential renovation project.
 
-= Key Tasks and Activities
+= Key Tasks and Activities:
 
 + Assisted in installing drywall in a renovated room, ensuring proper joint alignment and taping.
 + Helped build a deck for a new home, including cutting and assembling the frame and boards.

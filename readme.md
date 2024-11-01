@@ -6,10 +6,10 @@ This repository contains forms and templates for students who are completing the
 
 The following templates and forms are available in this repository:
 
-- **Weekly Report Template**: A Microsoft Word template for creating weekly reports during the co-op program. ([`weekly report template.docx`](weekly report template.docx))
-- **Final Report Template**: A Microsoft Word template for creating the final report at the end of the co-op program. ([`final report template.docx`](final report template.docx))
-- **Example Final Report**: A PDF file containing a filled-out final report as an example for reference. ([`example final report.pdf`](example final report.pdf))
-- **Company Evaluation Form**: A PDF file containing the student evaluation form to be given to the co-op company. ([`company evaluation form.pdf`](company evaluation form.pdf))
+- **Weekly Report Template**: A Microsoft Word template for creating weekly reports during the co-op program. ([`weekly report template.docx`](https://github.com/dyf-bits/jti-coop-resources/blob/master/final%20report%20template.docx))
+- **Final Report Template**: A Microsoft Word template for creating the final report at the end of the co-op program. ([`final report template.docx`](https://github.com/dyf-bits/jti-coop-resources/blob/master/final%20report%20template.docx))
+- **Example Final Report**: A PDF file containing a filled-out final report as an example for reference. ([`example final report.pdf`](https://github.com/dyf-bits/jti-coop-resources/blob/master/example%20final%20report.pdf))
+- **Company Evaluation Form**: A PDF file containing the student evaluation form to be given to the co-op company. ([company evaluation form.pdf](company evaluation form.pdf))
 - **JTI Student Evaluation Form**: A PDF file containing the JTI's student evaluation form for reference. ([`jti evaluation form.pdf`](jti evaluation form.pdf))
 
 ## How to Use
